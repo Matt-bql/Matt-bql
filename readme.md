@@ -18,7 +18,7 @@ I am a Software Developer based in Nashville, TN. I am proficient in both Fronte
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="/Users/lisab/Dev/github-prof/pngaaa.com-5081165.png" alt="Sass" height="50" />
+<img style="margin: 10px" src="/Users/lisab/Dev/github-prof/pngaaa.com-5081165.svg" alt="Sass" height="50" />
 
 </div>
 </td><td valign="top" width="33%">
