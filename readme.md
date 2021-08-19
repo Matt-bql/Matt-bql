@@ -2,7 +2,7 @@
 
 ### Hi there 👋, My name is Matt
 
-I am a Software Developer based in Nashville, TN. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, DynamoDBa, and React. As a software developer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
+I am a Software Developer based in Nashville, TN. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, DynamoDB, and React. As a software developer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
 ## My Skill Set
 
@@ -83,8 +83,4 @@ I am a Software Developer based in Nashville, TN. I am proficient in both Fronte
 </div>  
 <br/>
 
-## Github Stats
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ibrahimgurhandev&show_icons=true&locale=en" align="center" width="40%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimgurhandev" align="center" width="40%"/>
-</div>
+<!-- ## Github Stats -->
