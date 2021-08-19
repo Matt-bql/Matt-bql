@@ -58,7 +58,7 @@ I am a Software Developer based in Nashville, TN. I am proficient in both Fronte
         <p> <a href="https://www.mattbreaux.me" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="https://www.mattbreaux.dev" rel="nofollow">
-            <img src="https://www.mattbreaux.dev" width="100%" alt="Portfolio" data-canonical-src="lean-coffee.gif" style="max-width:100%;">
+            <img src="lean-coffee.gif" width="100%" alt="Portfolio" data-canonical-src="lean-coffee.gif" style="max-width:100%;">
         </a>
         <p><strong>A simple personal website with ways to contact me. In the process of being updated.</p>
     </td>
