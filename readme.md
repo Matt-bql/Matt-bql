@@ -27,7 +27,7 @@ I am a Software Developer based in Nashville, TN. I am proficient in both Fronte
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 
-<img style="margin: 10px" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fcoderdiaries.com%2F7-mistakes-i-made-in-dynamodb%2F&psig=AOvVaw1DbCV73nSig6obW4xXnsKb&ust=1629453846560000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJizxN_qvPICFQAAAAAdAAAAABAI" alt="DynamoDB" height="50" />  
+<img style="margin: 10px" src="pngaaa.com-3822491.png" alt="DynamoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
