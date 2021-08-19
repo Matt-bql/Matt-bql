@@ -48,7 +48,7 @@ I am a Software Developer based in Nashville, TN. I am proficient in both Fronte
         <!-- <p><a href="" rel="nofollow">Visit Site</a></p> -->
         <br>
         <a href="" rel="nofollow">
-            <img src="/Users/lisab/Dev/github-prof/Current Lean Coffee 2.GIF" width="100%" alt="lean-coffee-app" data-canonical-src="/Users/lisab/Dev/github-prof/Current Lean Coffee 2.GIF" style="max-width:100%;">
+            <img src="CurrentLeanCoffee 2.GIF" width="100%" alt="lean-coffee-app" data-canonical-src="" style="max-width:100%;">
         </a>
         <p><strong>HTML, CSS, Javascript, Bootstrap, Node.js, Express.js &amp; Twitter API </strong> - Cronofy - A web app that lets you schedule your twitter posts.</p>
     </td>
