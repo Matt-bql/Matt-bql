@@ -6,7 +6,7 @@ I am a Software Developer based in Nashville, TN. I am proficient in both Fronte
 
 ## My Skill Set
 
-<table><tr><td valign="top" width="33%">
+<table align='center'><tr><td valign="top" width="33%">
  
 ### Frontend  
  
